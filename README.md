@@ -12,6 +12,11 @@ While this should just be a script it's going to start as a basic list of what a
 * Open up Messages and turn on iCloud Messages
 * Finder Settings
 
-## Apps
+## App Store Apps
+
+* Todoist
+* OneDrive
+
+## External 3rd Party Apps
 
 * BetterTouchTool
