@@ -10,5 +10,8 @@ While this should just be a script it's going to start as a basic list of what a
 * App Store Updates
 * Open up Photo's and turn on iCloud Photo Library
 * Open up Messages and turn on iCloud Messages
+* Finder Settings
 
+## Apps
 
+* BetterTouchTool
