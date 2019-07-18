@@ -4,6 +4,7 @@ While this should just be a script it's going to start as a basic list of what a
 
 ## MacOS Setup
 
+* Enable all trackpad gestures
 * iCloud Login
 * Login to Google Account
 * MacOS Software Updates
