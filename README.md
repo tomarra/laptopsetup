@@ -38,4 +38,5 @@ While this should just be a script it's going to start as a basic list of what a
 * [Android Studio](https://developer.android.com/studio)
    * Need to run it after install to do all the extra install steps like SDK's and such.
    * May need to run the HAXM installer after the fact, https://github.com/intel/haxm
+   * Install the Flutter plugin
 
