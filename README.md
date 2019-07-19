@@ -23,6 +23,7 @@ While this should just be a script it's going to start as a basic list of what a
 ## External 3rd Party Apps
 
 * [BetterTouchTool](https://bettertouchtool.com)
+* 1Password
 
 ## Dev Stuff
 
