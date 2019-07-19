@@ -31,3 +31,4 @@ While this should just be a script it's going to start as a basic list of what a
    * Setup SSH Key and upload to GitHub
 * Xcode
    * Need to get this from the Apple Developer portal instead of the App Store. Just gives more flexibility to when and how to update it.
+* [Visual Studio Code](https://code.visualstudio.com)
