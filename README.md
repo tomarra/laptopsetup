@@ -34,4 +34,5 @@ While this should just be a script it's going to start as a basic list of what a
    * Need to get this from the Apple Developer portal instead of the App Store. Just gives more flexibility to when and how to update it.
 * [Visual Studio Code](https://code.visualstudio.com)
 * [Postman](https://www.getpostman.com/downloads/)
+* [Android Studio](https://developer.android.com/studio)
 
