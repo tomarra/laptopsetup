@@ -23,3 +23,8 @@ While this should just be a script it's going to start as a basic list of what a
 ## External 3rd Party Apps
 
 * [BetterTouchTool](https://bettertouchtool.com)
+
+## Dev Stuff
+
+* [SourceTree](https://www.sourcetreeapp.com)
+   * Setup SSH Key and upload to GitHub
