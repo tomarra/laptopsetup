@@ -24,6 +24,7 @@ While this should just be a script it's going to start as a basic list of what a
 
 * [BetterTouchTool](https://bettertouchtool.com)
 * 1Password
+* [Slack](https://slack.com/downloads/mac)
 
 ## Dev Stuff
 
@@ -32,3 +33,5 @@ While this should just be a script it's going to start as a basic list of what a
 * Xcode
    * Need to get this from the Apple Developer portal instead of the App Store. Just gives more flexibility to when and how to update it.
 * [Visual Studio Code](https://code.visualstudio.com)
+* [Postman](https://www.getpostman.com/downloads/)
+
