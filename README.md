@@ -28,6 +28,7 @@ While this should just be a script it's going to start as a basic list of what a
 * [BetterTouchTool](https://bettertouchtool.com)
 * 1Password
 * [Slack](https://slack.com/downloads/mac)
+* [Spotify](https://www.spotify.com/download/other/)
 
 ## Dev Stuff
 
