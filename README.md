@@ -14,6 +14,9 @@ While this should just be a script it's going to start as a basic list of what a
 * Turn on Unlock with Apple Watch
 * Finder Settings
 * Setup Printer
+* Modifier Keys for Windows Keyboard
+   * Option Key -> Command
+   * Command Key -> Option
 
 ## App Store Apps
 
