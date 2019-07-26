@@ -50,3 +50,7 @@ While this should just be a script it's going to start as a basic list of what a
 * [Flutter SDK](https://flutter.dev/docs/get-started/install/macos)
    * Download SDK and put in Path
    * Follow `flutter doctor` to get all dependeices setup
+   
+## Test Builds
+* Flutter App
+   * Clone a flutter app repo, open in VSCode and hit debug.
