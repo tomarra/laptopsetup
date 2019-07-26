@@ -43,6 +43,7 @@ While this should just be a script it's going to start as a basic list of what a
    * Need to run it after install to do all the extra install steps like SDK's and such.
    * May need to run the HAXM installer after the fact, https://github.com/intel/haxm
    * Install the Flutter plugin
+* [Homebrew](https://brew.sh)
 * [Flutter SDK](https://flutter.dev/docs/get-started/install/macos)
    * Download SDK and put in Path
    * Follow `flutter doctor` to get all dependeices setup
