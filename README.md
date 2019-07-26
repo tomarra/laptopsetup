@@ -26,7 +26,7 @@ While this should just be a script it's going to start as a basic list of what a
 ## External 3rd Party Apps
 
 * [BetterTouchTool](https://bettertouchtool.com)
-* 1Password
+* [1Password](https://1password.com)
 * [Slack](https://slack.com/downloads/mac)
 * [Spotify](https://www.spotify.com/download/other/)
 
@@ -38,6 +38,9 @@ While this should just be a script it's going to start as a basic list of what a
    * Need to get this from the Apple Developer portal instead of the App Store. Just gives more flexibility to when and how to update it.
    * Make sure to run it to install the CLI tools as well
 * [Visual Studio Code](https://code.visualstudio.com)
+   * Install Flutter Plugin
+   * Install Code Spell Checker Plugin
+   * Install Jekyll Syntax Support Plugin
 * [Postman](https://www.getpostman.com/downloads/)
 * [Android Studio](https://developer.android.com/studio)
    * Need to run it after install to do all the extra install steps like SDK's and such.
