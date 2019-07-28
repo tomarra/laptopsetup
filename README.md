@@ -42,6 +42,8 @@ While this should just be a script it's going to start as a basic list of what a
 * [Carthage](https://github.com/Carthage/Carthage)
    * Easiest to install via Homebrew
 * [Fastlane](https://docs.fastlane.tools/getting-started/ios/setup/)
+* [SwiftLint](https://github.com/realm/SwiftLint)
+   * Easiest to install via Homebrew
 * [Visual Studio Code](https://code.visualstudio.com)
    * Install Flutter Plugin
    * Install Code Spell Checker Plugin
