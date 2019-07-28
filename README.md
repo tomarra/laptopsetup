@@ -40,6 +40,7 @@ While this should just be a script it's going to start as a basic list of what a
    * Make sure to run it to install the CLI tools as well
 * [Carthage](https://github.com/Carthage/Carthage)
    * Easiest to install via Homebrew
+* [Fastlane](https://docs.fastlane.tools/getting-started/ios/setup/)
 * [Visual Studio Code](https://code.visualstudio.com)
    * Install Flutter Plugin
    * Install Code Spell Checker Plugin
