@@ -32,11 +32,14 @@ While this should just be a script it's going to start as a basic list of what a
 
 ## Dev Stuff
 
+* [Homebrew](https://brew.sh)
 * [SourceTree](https://www.sourcetreeapp.com)
    * Setup SSH Key and upload to GitHub
 * Xcode
    * Need to get this from the Apple Developer portal instead of the App Store. Just gives more flexibility to when and how to update it.
    * Make sure to run it to install the CLI tools as well
+* [Carthage](https://github.com/Carthage/Carthage)
+   * Easiest to install via Homebrew
 * [Visual Studio Code](https://code.visualstudio.com)
    * Install Flutter Plugin
    * Install Code Spell Checker Plugin
@@ -46,7 +49,7 @@ While this should just be a script it's going to start as a basic list of what a
    * Need to run it after install to do all the extra install steps like SDK's and such.
    * May need to run the HAXM installer after the fact, https://github.com/intel/haxm
    * Install the Flutter plugin
-* [Homebrew](https://brew.sh)
+
 * [Flutter SDK](https://flutter.dev/docs/get-started/install/macos)
    * Download SDK and put in Path
    * Follow `flutter doctor` to get all dependeices setup
