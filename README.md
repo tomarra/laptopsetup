@@ -37,7 +37,8 @@ While this should just be a script it's going to start as a basic list of what a
    * Setup SSH Key and upload to GitHub
 * Xcode
    * Need to get this from the Apple Developer portal instead of the App Store. Just gives more flexibility to when and how to update it.
-   * Make sure to run it to install the CLI tools as well
+   * Make sure to run it to install the CLI tools as well.
+   * Add App Store accounts into Xcode as well.
 * [Carthage](https://github.com/Carthage/Carthage)
    * Easiest to install via Homebrew
 * [Fastlane](https://docs.fastlane.tools/getting-started/ios/setup/)
