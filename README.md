@@ -1,6 +1,6 @@
 # laptopsetup
 
-While this should just be a script it's going to start as a basic list of what and how to setup a new Mac laptop
+While this started as just a text document to catalog the items that I need for a fresh laptop install is has now become an actual script! This was inspired by [this post](https://www.caseyliss.com/2019/10/8/brew-bundle) as I was already using Homebrew for some items.
 
 ## MacOS Setup
 
@@ -14,50 +14,39 @@ While this should just be a script it's going to start as a basic list of what a
 * Turn on Unlock with Apple Watch
 * Finder Settings
 * Setup Printer
-* Modifier Keys for Windows Keyboard
+* Modifier Keys for Windows Keyboard at desk
    * Option Key -> Command
    * Command Key -> Option
 
-## App Store Apps
+## Homebrew and Script
 
-* Todoist
-* OneDrive
+1. Download and Install Xcode
+   * Need to get this from the Apple Developer portal instead of the App Store. Just gives more flexibility to when and how to update it. Make sure to run it to install the CLI tools as well.
+1. Install [Homebrew](https://brew.sh)
+1. Clone this repo
+1. Run `brew bundle install`
 
-## External 3rd Party Apps
+## Downloaded Stuff
 
-* [BetterTouchTool](https://bettertouchtool.com)
-* [1Password](https://1password.com)
-* [Slack](https://slack.com/downloads/mac)
-* [Spotify](https://www.spotify.com/download/other/)
+* Microsoft Office
 
 ## Dev Stuff
 
-* [Homebrew](https://brew.sh)
-* [SourceTree](https://www.sourcetreeapp.com)
-   * Setup SSH Key and upload to GitHub
 * Xcode
-   * Need to get this from the Apple Developer portal instead of the App Store. Just gives more flexibility to when and how to update it.
-   * Make sure to run it to install the CLI tools as well.
-   * Add App Store accounts into Xcode as well.
-* [Carthage](https://github.com/Carthage/Carthage)
-   * Easiest to install via Homebrew
+   * Add App Store accounts
+* [Flutter SDK](https://flutter.dev/docs/get-started/install/macos)
+   * Download SDK and put in Path
+   * Follow `flutter doctor` to get all dependeices setup
 * [Fastlane](https://docs.fastlane.tools/getting-started/ios/setup/)
-* [SwiftLint](https://github.com/realm/SwiftLint)
-   * Easiest to install via Homebrew
-* [Visual Studio Code](https://code.visualstudio.com)
+* Visual Studio Code Plugins
    * Install Flutter Plugin
    * Install Code Spell Checker Plugin
    * Install Jekyll Syntax Support Plugin
-* [Postman](https://www.getpostman.com/downloads/)
-* [Android Studio](https://developer.android.com/studio)
+* Android Studio
    * Need to run it after install to do all the extra install steps like SDK's and such.
    * May need to run the HAXM installer after the fact, https://github.com/intel/haxm
    * Install the Flutter plugin
 
-* [Flutter SDK](https://flutter.dev/docs/get-started/install/macos)
-   * Download SDK and put in Path
-   * Follow `flutter doctor` to get all dependeices setup
-   
 ## Test Builds
 * Flutter App
    * Clone a flutter app repo, open in VSCode and hit debug.
