@@ -12,13 +12,16 @@ mas "Todoist", id: 585829637
 
 # Direct Download Applications
 cask "1Password"
+cask "adobe-acrobat-reader"
 cask "bettertouchtool"
-cask "fork"
+cask "daisydisk"
+cask "kaleidoscope"
 cask "onedrive"
 cask "postman"
+cask "rectangle"
 cask "slack"
-cask "sourcetree"
 cask "spotify"
+cask "tower"
 cask "visual-studio-code"
 
 # iOS Development

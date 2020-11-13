@@ -14,9 +14,6 @@ While this started as just a text document to catalog the items that I need for 
 * Turn on Unlock with Apple Watch
 * Finder Settings
 * Setup Printer
-* Modifier Keys for Windows Keyboard at desk
-   * Option Key -> Command
-   * Command Key -> Option
 
 ## Homebrew and Script
 
