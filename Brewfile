@@ -6,8 +6,12 @@ tap "homebrew/core"
 tap "homebrew/cask-fonts"
 brew "mas"
 
-# Mac App Store
+# Mac App Stor
+mas "DaisyDisk", id: 411643860
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "Pi Stats", id: 1514075262
 mas "Pixelmator Pro", id: 1289583905
+mas "Swimbols", id: 1525226399
 mas "Todoist", id: 585829637
 
 # Direct Download Applications
