@@ -14,6 +14,12 @@ While this started as just a text document to catalog the items that I need for 
 * Turn on Unlock with Apple Watch
 * Finder Settings
 * Setup Printer
+* Setup Sudo via TouchID
+   * https://www.imore.com/how-use-sudo-your-mac-touch-id
+   * `sudo chmod 644 /etc/pam.d/sudo`
+   * `vi /etc/pam.d/sudo`
+   * Add `auth sufficient pam_tid.so` and save the file
+   * `sudo chmod 444 /etc/pam.d/sudo`
 
 ## Homebrew and Script
 
