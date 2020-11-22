@@ -30,6 +30,7 @@ cask "visual-studio-code"
 # iOS Development
 brew "carthage"
 brew "swiftlint"
+brew "fastlane"
 
 # Flutter Development
 brew "cocoapods"
