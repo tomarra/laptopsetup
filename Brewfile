@@ -18,7 +18,6 @@ mas "Todoist", id: 585829637
 cask "1Password"
 cask "adobe-acrobat-reader"
 cask "bettertouchtool"
-cask "daisydisk"
 cask "kaleidoscope"
 cask "onedrive"
 cask "postman"
