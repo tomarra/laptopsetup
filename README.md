@@ -24,7 +24,8 @@ While this started as just a text document to catalog the items that I need for 
 ## Homebrew and Script
 
 1. Download and Install Xcode
-   * Need to get this from the Apple Developer portal instead of the App Store. Just gives more flexibility to when and how to update it. Make sure to run it to install the CLI tools as well.
+   * Need to get this from the Apple Developer portal instead of the App Store. Just gives more flexibility to when and how to update it. 
+   * Make sure to run it to install the CLI tools as well `xcode-select --install`
 1. Install [Homebrew](https://brew.sh)
 1. Clone this repo
 1. Run `brew bundle install`
