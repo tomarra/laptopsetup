@@ -27,6 +27,7 @@ While this started as just a text document to catalog the items that I need for 
    * Need to get this from the Apple Developer portal instead of the App Store. Just gives more flexibility to when and how to update it. 
    * Make sure to run it to install the CLI tools as well `xcode-select --install`
 1. Install [Homebrew](https://brew.sh)
+   * If doing this from an Apple Silicon machine you may need to prepend the install command with `arch -x86_64` to force it to install the Intel versions until homebrew has full Apple Silicon support.
 1. Clone this repo
 1. Run `brew bundle install`
 
