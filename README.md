@@ -34,6 +34,8 @@ While this started as just a text document to catalog the items that I need for 
 ## Downloaded Stuff
 
 * Microsoft Office
+* Bartender
+   * This is not via homebrew right now as Bartender 4 is the public beta that works on Big Sur
 
 ## Dev Stuff
 
