@@ -82,6 +82,8 @@ While this started as just a text document to catalog the items that I need for 
 
 ## Dev Stuff
 
+* Setup .zshrc
+   * Just copy file from this repo to home folder
 * Xcode
    * Add App Store accounts
 * [Flutter SDK](https://flutter.dev/docs/get-started/install/macos)
