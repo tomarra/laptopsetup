@@ -42,6 +42,9 @@ While this started as just a text document to catalog the items that I need for 
 
 * 1Password
    * Login and turn on Safari Plugin
+* Bartender
+   * Launch and apply license
+   * Set to launch at login
 * Safari
    * Turn off all Autofill
 * Spotify
