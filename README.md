@@ -73,6 +73,8 @@ While this started as just a text document to catalog the items that I need for 
    * Git Config setup
    * Setup SSH keys with GitHub
    * Clone laptopsetup repo via commandline to get ssh known hosts up to date. After that Tower will work
+* Visual Studio Code
+   * Add to Path https://code.visualstudio.com/docs/setup/mac
    
 **Do This Last**
 * OneDrive
