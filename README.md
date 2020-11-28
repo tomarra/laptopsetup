@@ -45,6 +45,11 @@ While this started as just a text document to catalog the items that I need for 
 * Bartender
    * Launch and apply license
    * Set to launch at login
+* BetterTouchTool
+   * Launch and apply license
+   * Turn off Menu Bar Icon
+   * Normal mouse, reverse scrolling
+   * Disable Window Snapping
 * Safari
    * Turn off all Autofill
 * Spotify
