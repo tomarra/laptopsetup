@@ -46,6 +46,8 @@ While this started as just a text document to catalog the items that I need for 
    * Turn off all Autofill
 * Spotify
    * Turn off launch at login
+* Todoist
+   * Login and allow notifications
 
 ## Dev Stuff
 
