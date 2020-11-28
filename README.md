@@ -40,6 +40,10 @@ While this started as just a text document to catalog the items that I need for 
    
 ## Application Settings
 
+* 1Password
+   * Login and turn on Safari Plugin
+* Safari
+   * Turn off all Autofill
 * Spotify
    * Turn off launch at login
 
