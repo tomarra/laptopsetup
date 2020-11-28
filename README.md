@@ -71,6 +71,7 @@ While this started as just a text document to catalog the items that I need for 
    * Launch and apply license
    * Git Config setup
    * Setup SSH keys with GitHub
+   * Clone laptopsetup repo via commandline to get ssh known hosts up to date. After that Tower will work
 
 ## Dev Stuff
 
