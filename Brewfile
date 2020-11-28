@@ -1,12 +1,13 @@
-cask_args appdir: "/Applications"
+cask_args appdir: "/Applications", require_sha: true
 
 # Basic setup of dependencies
 tap "homebrew/bundle"
 tap "homebrew/core"
+tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 brew "mas"
 
-# Mac App Stor
+# Mac App Store
 mas "DaisyDisk", id: 411643860
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Pi Stats", id: 1514075262
@@ -16,7 +17,7 @@ mas "Todoist", id: 585829637
 
 # Direct Download Applications
 cask "1Password"
-cask "adobe-acrobat-reader"
+cask "android-studio"
 cask "bettertouchtool"
 cask "kaleidoscope"
 cask "onedrive"
