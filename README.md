@@ -28,7 +28,8 @@ While this started as just a text document to catalog the items that I need for 
    * Make sure to run it to install the CLI tools as well `xcode-select --install`
 1. For Apple Silicon - Set Terminal to run via Rosetta
 1. Install [Homebrew](https://brew.sh)
-1. Clone this repo
+1. Download this repo
+   * Will setup Git creds and everything later
 1. Run `brew bundle install`
 
 ## Downloaded Stuff
