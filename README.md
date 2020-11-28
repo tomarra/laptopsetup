@@ -37,6 +37,11 @@ While this started as just a text document to catalog the items that I need for 
 * Microsoft Office
 * Bartender
    * This is not via homebrew right now as Bartender 4 is the public beta that works on Big Sur
+   
+## Application Settings
+
+* Spotify
+   * Turn off launch at login
 
 ## Dev Stuff
 
