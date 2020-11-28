@@ -54,12 +54,20 @@ While this started as just a text document to catalog the items that I need for 
    * Launch and apply license
 * Microsoft Office Apps
    * Launch Word and Login to Office365
+* OneDrive
+* PiStats
+   * Setup and point to Synology
+* Rectangle
+   * Launch and give system permissions
 * Safari
    * Turn off all Autofill
+* Slack
+   * Launch and login to workspaces
 * Spotify
    * Turn off launch at login
 * Todoist
    * Login and allow notifications
+* Tower
 
 ## Dev Stuff
 
