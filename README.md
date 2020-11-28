@@ -54,7 +54,6 @@ While this started as just a text document to catalog the items that I need for 
    * Launch and apply license
 * Microsoft Office Apps
    * Launch Word and Login to Office365
-* OneDrive
 * PiStats
    * Setup and point to Synology
 * Rectangle
@@ -72,6 +71,10 @@ While this started as just a text document to catalog the items that I need for 
    * Git Config setup
    * Setup SSH keys with GitHub
    * Clone laptopsetup repo via commandline to get ssh known hosts up to date. After that Tower will work
+   
+**Do This Last**
+* OneDrive
+   * Login and let sync happen. Will take a long time so be wired into the network
 
 ## Dev Stuff
 
