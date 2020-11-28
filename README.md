@@ -68,6 +68,9 @@ While this started as just a text document to catalog the items that I need for 
 * Todoist
    * Login and allow notifications
 * Tower
+   * Launch and apply license
+   * Git Config setup
+   * Setup SSH keys with GitHub
 
 ## Dev Stuff
 
