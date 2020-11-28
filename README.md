@@ -52,6 +52,8 @@ While this started as just a text document to catalog the items that I need for 
    * Disable Window Snapping
 * Kaleidoscope
    * Launch and apply license
+* Microsoft Office Apps
+   * Launch Word and Login to Office365
 * Safari
    * Turn off all Autofill
 * Spotify
