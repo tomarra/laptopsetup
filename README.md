@@ -50,6 +50,8 @@ While this started as just a text document to catalog the items that I need for 
    * Turn off Menu Bar Icon
    * Normal mouse, reverse scrolling
    * Disable Window Snapping
+* Kaleidoscope
+   * Launch and apply license
 * Safari
    * Turn off all Autofill
 * Spotify
