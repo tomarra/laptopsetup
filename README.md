@@ -15,6 +15,9 @@ While this started as just a text document to catalog the items that I need for 
 * Open up Messages and turn on iCloud Messages
 * Turn on Unlock with Apple Watch
 * Finder Settings
+   * Show Path Bar
+   * Show Status Bar
+   * Set View Defaults
 * Setup Printer
 
 ## Homebrew and Script
