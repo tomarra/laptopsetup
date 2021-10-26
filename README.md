@@ -18,6 +18,9 @@ While this started as just a text document to catalog the items that I need for 
    * Show Path Bar
    * Show Status Bar
    * Set View Defaults
+* Dock Settings
+   * Enable Auto Hide
+   * Disable Recent Applications
 * Setup Printer
 
 ## Homebrew and Script
