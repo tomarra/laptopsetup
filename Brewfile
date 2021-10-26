@@ -9,22 +9,29 @@ brew "mas"
 
 # Mac App Store
 mas "DaisyDisk", id: 411643860
+mas "Magnet", id: 441258766
 mas "Microsoft Remote Desktop", id: 1295203466
+mas "Parcel", id: 639968404
 mas "Pi Stats", id: 1514075262
 mas "Pixelmator Pro", id: 1289583905
-mas "Swimbols", id: 1525226399
+mas "Soulver 3", id: 1508732804
 mas "Todoist", id: 585829637
 
 # Direct Download Applications
 cask "1Password"
 cask "android-studio"
-cask "bettertouchtool"
+cask "bartender"
+cask "choosy"
+cask "deskset"
+cask "figma"
 cask "kaleidoscope"
+cask "microsoft-edge"
+cask "mimestream"
 cask "onedrive"
 cask "postman"
-cask "rectangle"
 cask "slack"
 cask "spotify"
+cask "timely"
 cask "tower"
 cask "visual-studio-code"
 
