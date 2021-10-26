@@ -41,8 +41,12 @@ brew "swiftlint"
 brew "fastlane"
 
 # Flutter Development
+brew "fvm"
 brew "cocoapods"
 brew "usbmuxd", args: ["HEAD"]
 brew "libimobiledevice", args: ["HEAD"]
 brew "ideviceinstaller"
 brew "ios-deploy"
+
+# Ruby
+brew "rbenv"

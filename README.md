@@ -6,7 +6,9 @@ While this started as just a text document to catalog the items that I need for 
 
 * Enable all trackpad gestures
 * iCloud Login
-* Login to Google Account
+* Login to Google Accounts
+   * Personal
+   * Work
 * MacOS Software Updates
 * App Store Updates
 * Open up Photo's and turn on iCloud Photo Library
@@ -14,12 +16,6 @@ While this started as just a text document to catalog the items that I need for 
 * Turn on Unlock with Apple Watch
 * Finder Settings
 * Setup Printer
-* Setup Sudo via TouchID
-   * https://www.imore.com/how-use-sudo-your-mac-touch-id
-   * `sudo chmod 644 /etc/pam.d/sudo`
-   * `vi /etc/pam.d/sudo`
-   * Add `auth sufficient pam_tid.so` and save the file
-   * `sudo chmod 444 /etc/pam.d/sudo`
 
 ## Homebrew and Script
 
@@ -35,8 +31,6 @@ While this started as just a text document to catalog the items that I need for 
 ## Downloaded Stuff
 
 * Microsoft Office
-* Bartender
-   * This is not via homebrew right now as Bartender 4 is the public beta that works on Big Sur
    
 ## Application Settings
 
@@ -47,19 +41,12 @@ While this started as just a text document to catalog the items that I need for 
 * Bartender
    * Launch and apply license
    * Set to launch at login
-* BetterTouchTool
-   * Launch and apply license
-   * Turn off Menu Bar Icon
-   * Normal mouse, reverse scrolling
-   * Disable Window Snapping
 * Kaleidoscope
    * Launch and apply license
 * Microsoft Office Apps
    * Launch Word and Login to Office365
 * PiStats
    * Setup and point to Synology
-* Rectangle
-   * Launch and give system permissions
 * Safari
    * Turn off all Autofill
 * Slack
