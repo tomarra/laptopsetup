@@ -22,6 +22,7 @@ While this started as just a text document to catalog the items that I need for 
    * Enable Auto Hide
    * Disable Recent Applications
 * Setup Printer
+* Remove Siri from Menu Bar
 
 ## Homebrew and Script
 
@@ -46,10 +47,17 @@ While this started as just a text document to catalog the items that I need for 
 * Bartender
    * Launch and apply license
    * Set to launch at login
+* Choosy
+   * Launch and apply license
+   * Set Edge to open for Google Meet
 * Kaleidoscope
    * Launch and apply license
+* Magnet
+   * Launch and set to launch at login
 * Microsoft Office Apps
    * Launch Word and Login to Office365
+* Mimestream
+   * Launch and setup email accounts
 * PiStats
    * Setup and point to Synology
 * Safari
@@ -58,6 +66,8 @@ While this started as just a text document to catalog the items that I need for 
    * Launch and login to workspaces
 * Spotify
    * Turn off launch at login
+* Timely
+   * Log in
 * Todoist
    * Login and allow notifications
 * Tower
