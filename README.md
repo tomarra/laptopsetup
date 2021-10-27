@@ -42,6 +42,7 @@ While this started as just a text document to catalog the items that I need for 
 
 * 1Password
    * Login and turn on Safari Plugin
+   * Remove from Menu Bar
 * Android Studio
    * Start and let it install everything
 * Bartender
@@ -50,6 +51,7 @@ While this started as just a text document to catalog the items that I need for 
 * Choosy
    * Launch and apply license
    * Set Edge to open for Google Meet
+   * Remove from Menu Bar
 * Kaleidoscope
    * Launch and apply license
 * Magnet
