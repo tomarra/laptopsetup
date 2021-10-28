@@ -36,6 +36,7 @@ cask "spotify"
 cask "timely"
 cask "tower"
 cask "visual-studio-code"
+cask "zoom"
 
 # iOS Development
 brew "carthage"
