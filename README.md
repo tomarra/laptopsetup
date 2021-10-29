@@ -95,10 +95,9 @@ While this started as just a text document to catalog the items that I need for 
    * Download SDK and put in Path
    * Follow `flutter doctor` to get all dependeices setup
 * [Fastlane](https://docs.fastlane.tools/getting-started/ios/setup/)
-* Visual Studio Code Plugins
-   * Install Flutter Plugin
-   * Install Code Spell Checker Plugin
-   * Install Jekyll Syntax Support Plugin
+* Ruby Setup via `rbenv`
+   * Install 2.7.2 and set as global
+* Install Cocoapods
 * Android Studio
    * Need to run it after install to do all the extra install steps like SDK's and such.
    * May need to run the HAXM installer after the fact, https://github.com/intel/haxm
