@@ -21,6 +21,7 @@ mas "Todoist", id: 585829637
 cask "1Password"
 cask "android-studio"
 cask "bartender"
+cask "cakebrew"
 cask "choosy"
 cask "deckset"
 cask "figma"
