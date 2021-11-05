@@ -15,6 +15,7 @@ mas "Parcel", id: 639968404
 mas "Pi-hole Remote", id: 1515445551
 mas "Pixelmator Pro", id: 1289583905
 mas "Soulver 3", id: 1508732804
+mas "Telegram", id: 747648890
 mas "Todoist", id: 585829637
 
 # Direct Download Applications
