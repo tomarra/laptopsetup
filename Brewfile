@@ -52,3 +52,6 @@ brew "fvm"
 
 # Ruby
 brew "rbenv"
+
+# Node
+brew "node"
