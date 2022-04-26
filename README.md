@@ -93,6 +93,7 @@ While this started as just a text document to catalog the items that I need for 
    
 **Do This Last**
 * OneDrive
+   * Install should have happened already with Office 365 install.
    * Login and let sync happen. Will take a long time so be wired into the network
 
 ## Dev Stuff
