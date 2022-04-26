@@ -68,6 +68,8 @@ While this started as just a text document to catalog the items that I need for 
    * Launch Word and Login to Office365
 * Mimestream
    * Launch and setup email accounts
+* Notion
+   * Launch and login
 * Pi-hole Remote
    * Setup and point to Synology
 * Safari
