@@ -52,6 +52,7 @@ While this started as just a text document to catalog the items that I need for 
    * Launch and apply license
    * Set Edge to open for Google Meet
    * Remove from Menu Bar
+   * Set to launch at login
 * Kaleidoscope
    * Launch and apply license
 * Magnet
