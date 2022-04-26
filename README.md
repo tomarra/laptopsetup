@@ -105,6 +105,7 @@ While this started as just a text document to catalog the items that I need for 
    * Download SDK and put in Path
    * Follow `flutter doctor` to get all dependeices setup
 * [Fastlane](https://docs.fastlane.tools/getting-started/ios/setup/)
+* [Sidekick](https://github.com/fluttertools/sidekick)
 * Ruby Setup via `rbenv`
    * Install 2.7.2 and set as global
 * Install Cocoapods
