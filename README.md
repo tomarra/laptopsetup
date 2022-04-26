@@ -61,7 +61,7 @@ While this started as just a text document to catalog the items that I need for 
    * Launch Word and Login to Office365
 * Mimestream
    * Launch and setup email accounts
-* PiStats
+* Pi-hole Remote
    * Setup and point to Synology
 * Safari
    * Turn off all Autofill
