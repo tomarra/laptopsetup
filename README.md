@@ -53,6 +53,9 @@ While this started as just a text document to catalog the items that I need for 
    * Set Edge to open for Google Meet
    * Remove from Menu Bar
    * Set to launch at login
+* Fantasical
+   * Launch and login to Flexibits Account
+   * Setup Google Accounts (don't use local accounts) 
 * Kaleidoscope
    * Launch and apply license
 * Magnet
