@@ -17,13 +17,13 @@ mas "Pixelmator Pro", id: 1289583905
 mas "Soulver 3", id: 1508732804
 mas "Telegram", id: 747648890
 mas "Todoist", id: 585829637
+mas "Velja", id: 1607635845
 
 # Direct Download Applications
 cask "1Password"
 cask "android-studio"
 cask "bartender"
 cask "cakebrew"
-cask "choosy"
 cask "cleanshot"
 cask "deckset"
 cask "fantastical"

@@ -48,11 +48,6 @@ While this started as just a text document to catalog the items that I need for 
 * Bartender
    * Launch and apply license
    * Set to launch at login
-* Choosy
-   * Launch and apply license
-   * Set Edge to open for Google Meet
-   * Remove from Menu Bar
-   * Set to launch at login
 * CleanShot X
    * Launch and apply license
    * Setup shortcuts
