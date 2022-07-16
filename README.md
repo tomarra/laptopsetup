@@ -102,7 +102,9 @@ While this started as just a text document to catalog the items that I need for 
 
 * Setup .zprofile
    * Just copy file from this repo to home folder
-* Install Flutter Stable via FVM - `fvm install stable`
+* Install Flutter Stable via FVM
+   * `fvm install stable`
+   * `fvm global stable`
 * [Sidekick](https://github.com/fluttertools/sidekick)
 * Ruby Setup via `rbenv`
    * `rbenv install 2.7.2`
