@@ -98,6 +98,23 @@ While this started as just a text document to catalog the items that I need for 
    * Install should have happened already with Office 365 install.
    * Login and let sync happen. Will take a long time so be wired into the network
 
+## Dock Setup
+
+* Finder
+* Messages
+* Mimestream
+* Fantasical
+* Slack
+* Safari
+* Todoist
+* Timely
+* Visual Studio Code
+* Tower
+* Photos
+* Music
+* Spotify
+* System Prefrences
+
 ## Dev Stuff
 
 * Setup .zprofile
