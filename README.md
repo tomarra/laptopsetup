@@ -124,8 +124,8 @@ While this started as just a text document to catalog the items that I need for 
    * `fvm global stable`
 * [Sidekick](https://github.com/fluttertools/sidekick)
 * Ruby Setup via `rbenv`
-   * `rbenv install 2.7.2`
-   * `rbenv global 2.7.2`
+   * `rbenv install 3.1.2`
+   * `rbenv global 3.1.2`
 
 ## Test Builds
 * Flutter App
