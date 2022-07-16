@@ -37,6 +37,7 @@ While this started as just a text document to catalog the items that I need for 
 ## Downloaded Stuff
 
 * Microsoft Office
+* Logi Options
    
 ## Application Settings
 
@@ -52,6 +53,7 @@ While this started as just a text document to catalog the items that I need for 
    * Launch and apply license
    * Setup shortcuts
    * Move preview window to right side 
+   * Set to launch at login
 * Fantasical
    * Launch and login to Flexibits Account
    * Setup Google Accounts (don't use local accounts) 
@@ -82,6 +84,9 @@ While this started as just a text document to catalog the items that I need for 
    * Git Config setup
    * Setup SSH keys with GitHub
    * Clone laptopsetup repo via commandline to get ssh known hosts up to date. After that Tower will work
+* Velja
+   * Launch and set launch on login
+   * Setup links
 * Visual Studio Code
    * Login for Settings Sync via Github
    * Add to Path https://code.visualstudio.com/docs/setup/mac
