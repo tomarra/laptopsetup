@@ -59,6 +59,8 @@ While this started as just a text document to catalog the items that I need for 
    * Setup Google Accounts (don't use local accounts) 
 * Kaleidoscope
    * Launch and apply license
+* Logi Options
+   * Launch, sign in to account
 * Magnet
    * Launch and set to launch at login
 * Microsoft Office Apps
