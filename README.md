@@ -126,6 +126,7 @@ While this started as just a text document to catalog the items that I need for 
 * Ruby Setup via `rbenv`
    * `rbenv install 3.1.2`
    * `rbenv global 3.1.2`
+   * `gem install video_transcoding`
 
 ## Test Builds
 * Flutter App
