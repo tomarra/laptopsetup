@@ -8,39 +8,40 @@ tap "homebrew/cask-fonts"
 brew "mas"
 
 # Mac App Store
+mas "1Password for Safari", id: 1569813296
 mas "DaisyDisk", id: 411643860
 mas "Magnet", id: 441258766
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Parcel", id: 639968404
-mas "Pi-hole Remote", id: 1515445551
 mas "Pixelmator Pro", id: 1289583905
+mas "Reeder", id: 1529448980
 mas "Soulver 3", id: 1508732804
 mas "Telegram", id: 747648890
 mas "Todoist", id: 585829637
+mas "Tripsy", id: 1429967544
 mas "Velja", id: 1607635845
 
 # Direct Download Applications
 cask "1Password"
 cask "android-studio"
+cask "ankermake"
+cask "arc"
 cask "bartender"
 cask "cakebrew"
 cask "cleanshot"
-cask "deckset"
 cask "discord"
-cask "fantastical"
 cask "figma"
 cask "google-chrome"
 cask "kaleidoscope"
+cask "latest"
 cask "loom"
-cask "microsoft-edge"
+cask "logi-options-plus"
 cask "microsoft-teams"
 cask "mimestream"
 cask "notion"
-# cask "onedrive"
 cask "postman"
 cask "slack"
 cask "spotify"
-cask "timely"
 cask "tower"
 cask "visual-studio-code"
 cask "zoom"
