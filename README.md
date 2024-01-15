@@ -54,9 +54,6 @@ While this started as just a text document to catalog the items that I need for 
   - Setup shortcuts
   - Move preview window to right side
   - Set to launch at login
-- Fantasical
-  - Launch and login to Flexibits Account
-  - Setup Google Accounts (don't use local accounts)
 - Kaleidoscope
   - Launch and apply license
 - Logi Options
@@ -69,16 +66,12 @@ While this started as just a text document to catalog the items that I need for 
   - Launch and setup email accounts
 - Notion
   - Launch and login
-- Pi-hole Remote
-  - Setup and point to Synology
 - Safari
   - Turn off all Autofill
 - Slack
   - Launch and login to workspaces
 - Spotify
   - Turn off launch at login
-- Timely
-  - Log in
 - Todoist
   - Login and allow notifications
 - Tower
@@ -106,14 +99,14 @@ While this started as just a text document to catalog the items that I need for 
 - Safari
 - Mimestream
 - Calendar
-- Slack
 - Todoist
+- Slack
 - Visual Studio Code
 - Tower
 - Photos
 - Music
 - Spotify
-- System Prefrences
+- System Preferences
 
 ## Dev Stuff
 
