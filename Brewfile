@@ -63,8 +63,8 @@ brew "rbenv"
 brew "node"
 
 # Things for video transcoding
-#brew install handbrake
-#brew install ffmpeg
-#brew install mkvtoolnix
-#brew install mp4v2
-#brew install mpv
+brew "handbrake"
+brew "ffmpeg"
+brew "mkvtoolnix"
+brew "mp4v2"
+brew "mpv"
