@@ -2,8 +2,6 @@ cask_args appdir: "/Applications", require_sha: true
 
 # Basic setup of dependencies
 tap "homebrew/bundle"
-tap "homebrew/core"
-tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 brew "mas"
 
@@ -65,8 +63,8 @@ brew "rbenv"
 brew "node"
 
 # Things for video transcoding
-brew install handbrake
-brew install ffmpeg
-brew install mkvtoolnix
-brew install mp4v2
-brew install mpv
+#brew install handbrake
+#brew install ffmpeg
+#brew install mkvtoolnix
+#brew install mp4v2
+#brew install mpv
