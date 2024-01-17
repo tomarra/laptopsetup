@@ -22,7 +22,6 @@ While this started as just a text document to catalog the items that I need for 
   - Enable Auto Hide
   - Disable Recent Applications
 - Setup Printer
-- Remove Siri from Menu Bar
 
 ## Homebrew and Script
 
@@ -68,6 +67,7 @@ While this started as just a text document to catalog the items that I need for 
   - Launch and login
 - Safari
   - Turn off all Autofill
+  - Show Favorites Bar
 - Slack
   - Launch and login to workspaces
 - Spotify
