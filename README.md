@@ -129,3 +129,10 @@ While this started as just a text document to catalog the items that I need for 
 
 - Flutter App
   - Clone a flutter app repo, open in VSCode and hit debug.
+ 
+## Home Desk Setup
+
+- Logi Options Plus
+  - Setup Scroll Direction
+- System Prefrences
+  - Remap keyboard modifer keys (Option and Command Flip)
