@@ -63,6 +63,8 @@ While this started as just a text document to catalog the items that I need for 
   - Launch Word and Login to Office365
 - Mimestream
   - Launch and setup email accounts
+  - Make Default Mail App
+  - Tweak UI Settings
 - Notion
   - Launch and login
 - Safari
