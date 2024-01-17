@@ -65,6 +65,8 @@ While this started as just a text document to catalog the items that I need for 
   - Launch and setup email accounts
   - Make Default Mail App
   - Tweak UI Settings
+     - General - Turn off "Group Messages into converstaions"
+     - Sidebar & List - List Style - Expanded
 - Notion
   - Launch and login
 - Safari
