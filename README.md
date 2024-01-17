@@ -27,6 +27,7 @@ While this started as just a text document to catalog the items that I need for 
 
 1. Download and Install Xcode
    - Need to get this from the Apple Developer portal instead of the App Store. Just gives more flexibility to when and how to update it.
+   - Once installed, run Xcode and install the iOS platform SDK
    - Make sure to run it to install the CLI tools as well `xcode-select --install`
 1. Install [Homebrew](https://brew.sh)
 1. Download this repo
