@@ -37,7 +37,6 @@ While this started as just a text document to catalog the items that I need for 
 ## Downloaded Stuff
 
 - Microsoft Office
-- Logi Options
 
 ## Application Settings
 
@@ -56,7 +55,7 @@ While this started as just a text document to catalog the items that I need for 
   - Set to launch at login
 - Kaleidoscope
   - Launch and apply license
-- Logi Options
+- Logi Options Plus
   - Launch, sign in to account
 - Magnet
   - Launch and set to launch at login
