@@ -2,7 +2,7 @@
 
 While this started as just a text document to catalog the items that I need for a fresh laptop install is has now become an actual script! This was inspired by [this post](https://www.caseyliss.com/2019/10/8/brew-bundle) as I was already using Homebrew for some items.
 
-## MacOS Setup
+## 1. MacOS Setup
 
 - Enable all trackpad gestures
 - iCloud Login
@@ -23,7 +23,7 @@ While this started as just a text document to catalog the items that I need for 
   - Disable Recent Applications
 - Setup Printer
 
-## Homebrew and Script
+## 2. Homebrew and Script
 
 1. Download and Install Xcode
    - Need to get this from the Apple Developer portal instead of the App Store. Just gives more flexibility to when and how to update it.
@@ -34,20 +34,32 @@ While this started as just a text document to catalog the items that I need for 
    - Will setup Git creds and everything later
 1. Run `brew bundle install`
 
-## Downloaded Stuff
+### Dock Setup
+
+Need to wait until everything is installed before doing this ;) 
+
+- Finder
+- Messages
+- Safari
+- Mimestream
+- Calendar
+- Todoist
+- Slack
+- Visual Studio Code
+- Tower
+- Photos
+- Music
+- Spotify
+- System Preferences
+
+## 3. Extra Downloads
 
 - Microsoft Office
 
-## Application Settings
+## 4. Application Setup & Settings
 
-- 1Password
-  - Login and turn on Safari Plugin
-  - Remove from Menu Bar
 - Android Studio
   - Start and let it install everything
-- Bartender
-  - Launch and apply license
-  - Set to launch at login
 - CleanShot X
   - Launch and apply license
   - Setup shortcuts
@@ -57,8 +69,6 @@ While this started as just a text document to catalog the items that I need for 
   - Launch and apply license
 - Logi Options Plus
   - Launch, sign in to account
-- Magnet
-  - Launch and set to launch at login
 - Microsoft Office Apps
   - Launch Word and Login to Office365
 - Mimestream
@@ -96,23 +106,7 @@ While this started as just a text document to catalog the items that I need for 
   - Install should have happened already with Office 365 install.
   - Login and let sync happen. Will take a long time so be wired into the network
 
-## Dock Setup
-
-- Finder
-- Messages
-- Safari
-- Mimestream
-- Calendar
-- Todoist
-- Slack
-- Visual Studio Code
-- Tower
-- Photos
-- Music
-- Spotify
-- System Preferences
-
-## Dev Stuff
+## 5. Dev Environment Setup
 
 - Setup .zprofile
   - Just copy file from this repo to home folder
