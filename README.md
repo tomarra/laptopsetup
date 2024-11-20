@@ -69,6 +69,7 @@ Need to wait until everything is installed before doing this ;)
   - Launch and apply license
 - Logi Options Plus
   - Launch, sign in to account
+  - Setup Scroll Direction
 - Microsoft Office Apps
   - Launch Word and Login to Office365
 - Mimestream
@@ -119,14 +120,7 @@ Need to wait until everything is installed before doing this ;)
   - `rbenv global 3.1.2`
   - `gem install video_transcoding`
 
-## Test Builds
+### Test Builds
 
 - Flutter App
   - Clone a flutter app repo, open in VSCode and hit debug.
- 
-## Home Desk Setup
-
-- Logi Options Plus
-  - Setup Scroll Direction
-- System Prefrences
-  - Remap keyboard modifer keys (Option and Command Flip)
