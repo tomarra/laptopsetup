@@ -82,7 +82,10 @@ Need to wait until everything is installed before doing this ;)
   - Open and login
 - Element
   - Open and login
-  - Have second device ready to verify session  
+  - Have second device ready to verify session
+- Google Chrome
+  - Launch and login
+  - Setup [iCloud Password Extension](https://chromewebstore.google.com/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj?pli=1)
 - Kaleidoscope
   - Launch and apply license
 - Logi Options Plus
