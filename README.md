@@ -102,10 +102,12 @@ Need to wait until everything is installed before doing this ;)
   - Tweak UI Settings
      - General - Turn off "Group Messages into converstaions"
      - Sidebar & List - List Style - Expanded
-- Notion
-  - Launch and login
+- Rocket
+  - Launch to accept all permissions
+  - Apply license key (in notes)
+  - Set to launch at startup
+  - Add Discord to list of apps to ignore
 - Safari
-  - Turn off all Autofill
   - Show Favorites Bar
 - Slack
   - Launch and login to workspaces
