@@ -79,7 +79,10 @@ Need to wait until everything is installed before doing this ;)
   - Start and test
   - Set dispaly to 1080p resolution
 - Discord
-  - Open and login  
+  - Open and login
+- Element
+  - Open and login
+  - Have second device ready to verify session  
 - Kaleidoscope
   - Launch and apply license
 - Logi Options Plus
