@@ -86,6 +86,7 @@ Need to wait until everything is installed before doing this ;)
 - Google Chrome
   - Launch and login
   - Setup [iCloud Password Extension](https://chromewebstore.google.com/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj?pli=1)
+  - Turn off Hold Command+Q to Quit
 - Kaleidoscope
   - Launch and apply license
 - Logi Options Plus
