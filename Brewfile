@@ -2,7 +2,7 @@ cask_args appdir: "/Applications", require_sha: true
 
 # Basic setup of dependencies
 tap "homebrew/bundle"
-tap "homebrew/cask-fonts"
+#tap "homebrew/cask-fonts"
 brew "mas"
 
 # Mac App Store
