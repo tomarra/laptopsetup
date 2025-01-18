@@ -61,6 +61,8 @@ Need to wait until everything is installed before doing this ;)
 
 - Android Studio
   - Start and let it install everything
+- BambuStudio
+  - Open and Login
 - CleanShot X
   - Launch and apply license
   - Setup shortcuts
