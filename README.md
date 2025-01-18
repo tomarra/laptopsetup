@@ -113,6 +113,8 @@ Need to wait until everything is installed before doing this ;)
   - Launch and login to workspaces
 - Spotify
   - Turn off launch at login
+- Telegram
+  - Launch and confrim login from other device  
 - Todoist
   - Login and allow notifications
 - Tower
