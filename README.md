@@ -122,6 +122,7 @@ Need to wait until everything is installed before doing this ;)
   - Git Config setup
   - Setup SSH keys with GitHub
   - Clone laptopsetup repo via commandline to get ssh known hosts up to date. After that Tower will work
+  - Set Workspaces as Default folder
 - Velja
   - Launch and set launch on login
   - Setup links
