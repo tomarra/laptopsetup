@@ -75,6 +75,9 @@ Need to wait until everything is installed before doing this ;)
   - Move preview window to right side
   - Set to launch at login
   - Take screenshot to test everything
+- DeskPad
+  - Start and test
+  - Set dispaly to 1080p resolution  
 - Kaleidoscope
   - Launch and apply license
 - Logi Options Plus
