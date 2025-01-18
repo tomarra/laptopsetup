@@ -18,9 +18,10 @@ While this started as just a text document to catalog the items that I need for 
   - Show Path Bar
   - Show Status Bar
   - Set View Defaults
-- Dock Settings
+- Desktop & Dock Settings
   - Enable Auto Hide
   - Disable Recent Applications
+  - Tiled Windows Don't Have Margins
 - Setup Printer
 
 ## 2. Homebrew and Script
