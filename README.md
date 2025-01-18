@@ -68,6 +68,7 @@ Need to wait until everything is installed before doing this ;)
 - CleanMyMac
   - Open and accept prompts for access premissions
   - Login to apply license
+  - Run scan to get through more access permission prompts
 - CleanShot X
   - Launch and apply license
   - Setup shortcuts
