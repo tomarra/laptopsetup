@@ -71,9 +71,10 @@ Need to wait until everything is installed before doing this ;)
   - Run scan to get through more access permission prompts
 - CleanShot X
   - Launch and apply license
-  - Setup shortcuts
+  - Disable Sysetm shortcuts per instructions
   - Move preview window to right side
   - Set to launch at login
+  - Take screenshot to test everything
 - Kaleidoscope
   - Launch and apply license
 - Logi Options Plus
