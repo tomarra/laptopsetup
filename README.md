@@ -77,7 +77,9 @@ Need to wait until everything is installed before doing this ;)
   - Take screenshot to test everything
 - DeskPad
   - Start and test
-  - Set dispaly to 1080p resolution  
+  - Set dispaly to 1080p resolution
+- Discord
+  - Open and login  
 - Kaleidoscope
   - Launch and apply license
 - Logi Options Plus
