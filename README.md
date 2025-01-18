@@ -63,6 +63,8 @@ Need to wait until everything is installed before doing this ;)
   - Start and let it install everything
 - BambuStudio
   - Open and Login
+- ChatGPT
+  - Open and Login 
 - CleanShot X
   - Launch and apply license
   - Setup shortcuts
