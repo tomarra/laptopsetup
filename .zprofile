@@ -9,7 +9,7 @@ export FLUTTER_HOME=~/fvm/default/bin
 export FLUTTER_ROOT=$FLUTTER_HOME
 export PATH=$PATH:$FLUTTER_HOME
 
-# Flutter
+# Dart
 export DART_HOME=~/fvm/default/bin
 export PATH="$PATH":"$HOME/.pub-cache/bin"
 export PATH=$PATH:$DART_HOME
