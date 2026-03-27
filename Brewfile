@@ -6,15 +6,15 @@ tap "homebrew/bundle"
 brew "mas"
 
 # Mac App Store
-mas "1Password for Safari", id: 1569813296
 mas "CrystalFetch", id: 6454431289
 mas "DaisyDisk", id: 411643860
 mas "Developer", id: 640199958
-mas "Parcel", id: 639968404
+mas "Labelife", id: 1560922539
+mas "Parcel", id: 375589283
 mas "Pixelmator Pro", id: 1289583905
+mas "Reeder", id: 6475002485
 mas "Soulver 3", id: 1508732804
 mas "Telegram", id: 747648890
-mas "Todoist", id: 585829637
 mas "Tripsy", id: 1429967544
 mas "UTM", id: 1538878817
 mas "Velja", id: 1607635845
